@@ -13,8 +13,8 @@
   }
 }
 
-.App-header {
-  background-color: #282c34;
+.DiceApp {
+  background-color: #273a60;
   min-height: 100vh;
   display: flex;
   flex-direction: column;

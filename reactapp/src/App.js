@@ -1,15 +1,11 @@
-import but from "./test.png";
-import logo from "./logo.svg";
 import "./App.css";
-import MyButton from "./components/MyButton";
-import DiceSelect from "./components/DiceSelect";
+import DiceChoiceMenu from "./components/DiceChoiceMenu";
 
 function App() {
   return (
-    <div>
+    <div class="DiceApp">
       <header></header>
-      <DiceSelect />
-      <MyButton />
+      <DiceChoiceMenu />
     </div>
   );
 }
